@@ -19,12 +19,14 @@
     {
       "name": "Melanie Grady",
       "id": 18
-    },
-    {
-      "name": "Minnie Gutmann",
-      "id": 19
     }
   ],
-  "albums": [],
+  "albums": [
+    {
+      "id": 10,
+      "title": "Hiking Trip",
+      "userId": 17
+    }
+  ],
   "photos": []
 }
