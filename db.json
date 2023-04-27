@@ -1,10 +1,6 @@
 {
   "users": [
     {
-      "name": "Amelia Mante",
-      "id": 6
-    },
-    {
       "name": "Ms. Bessie Mraz",
       "id": 8
     },
@@ -91,6 +87,10 @@
     {
       "name": "Angela Jacobi",
       "id": 34
+    },
+    {
+      "name": "Barbara Schuppe",
+      "id": 35
     }
   ],
   "albums": [],
