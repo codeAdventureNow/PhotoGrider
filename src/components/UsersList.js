@@ -3,7 +3,7 @@ import { useSelector } from 'react-redux';
 import { fetchUsers, addUser } from '../store';
 import Button from './Button';
 import Skeleton from './Skeleton';
-import { useThunk } from '../hooks/use-thunks';
+import { useThunk } from '../hooks/use-thunk';
 import UsersListItem from './UsersListItem';
 
 function UsersList() {
