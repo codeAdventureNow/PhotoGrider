@@ -1,70 +1,10 @@
 {
   "users": [
     {
-      "name": "Ms. Karla Schmitt",
-      "id": 20
-    },
-    {
-      "name": "Bonnie Padberg",
-      "id": 21
+      "name": "Tonya Gislason",
+      "id": 1
     }
   ],
-  "albums": [
-    {
-      "userId": 20,
-      "title": "Handmade Metal Fish",
-      "id": 3
-    },
-    {
-      "userId": 20,
-      "title": "Electronic Frozen Ball",
-      "id": 5
-    },
-    {
-      "userId": 21,
-      "title": "Fantastic Fresh Gloves",
-      "id": 6
-    },
-    {
-      "userId": 21,
-      "title": "Licensed Cotton Tuna",
-      "id": 7
-    },
-    {
-      "userId": 21,
-      "title": "Modern Concrete Chair",
-      "id": 8
-    },
-    {
-      "userId": 20,
-      "title": "Generic Concrete Chair",
-      "id": 9
-    },
-    {
-      "userId": 20,
-      "title": "Handcrafted Concrete Mouse",
-      "id": 10
-    },
-    {
-      "userId": 20,
-      "title": "Luxurious Steel Pants",
-      "id": 11
-    },
-    {
-      "userId": 20,
-      "title": "Generic Rubber Shoes",
-      "id": 12
-    },
-    {
-      "userId": 20,
-      "title": "Generic Soft Chips",
-      "id": 13
-    },
-    {
-      "userId": 20,
-      "title": "Bespoke Soft Fish",
-      "id": 14
-    }
-  ],
+  "albums": [],
   "photos": []
 }
