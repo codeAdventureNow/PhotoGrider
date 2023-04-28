@@ -5,6 +5,12 @@
       "id": 1
     }
   ],
-  "albums": [],
+  "albums": [
+    {
+      "userId": 1,
+      "title": "Gorgeous Bronze Pants",
+      "id": 1
+    }
+  ],
   "photos": []
 }
