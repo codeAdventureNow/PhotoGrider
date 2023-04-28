@@ -54,6 +54,16 @@
       "userId": 20,
       "title": "Generic Rubber Shoes",
       "id": 12
+    },
+    {
+      "userId": 20,
+      "title": "Generic Soft Chips",
+      "id": 13
+    },
+    {
+      "userId": 20,
+      "title": "Bespoke Soft Fish",
+      "id": 14
     }
   ],
   "photos": []
