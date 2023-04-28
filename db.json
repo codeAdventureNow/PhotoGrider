@@ -1,100 +1,39 @@
 {
   "users": [
     {
-      "name": "Dallas Jacobi",
-      "id": 15
-    },
-    {
-      "name": "Ivan Batz",
-      "id": 16
-    },
-    {
-      "name": "Casey Rosenbaum",
-      "id": 17
-    },
-    {
-      "name": "Melanie Grady",
-      "id": 18
-    },
-    {
-      "name": "Vicki Hilpert",
-      "id": 19
-    },
-    {
       "name": "Ms. Karla Schmitt",
       "id": 20
+    },
+    {
+      "name": "Bonnie Padberg",
+      "id": 21
     }
   ],
   "albums": [
     {
-      "id": 10,
-      "title": "Hiking Trip",
-      "userId": 17
+      "userId": 20,
+      "title": "Handmade Metal Fish",
+      "id": 3
     },
     {
-      "userId": 17,
-      "title": "Sleek Cotton Soap",
-      "id": 11
+      "userId": 20,
+      "title": "Electronic Frozen Ball",
+      "id": 5
     },
     {
-      "userId": 17,
-      "title": "Small Metal Tuna",
-      "id": 12
+      "userId": 21,
+      "title": "Fantastic Fresh Gloves",
+      "id": 6
     },
     {
-      "userId": 17,
-      "title": "Refined Fresh Table",
-      "id": 13
+      "userId": 21,
+      "title": "Licensed Cotton Tuna",
+      "id": 7
     },
     {
-      "userId": 16,
-      "title": "Licensed Steel Ball",
-      "id": 14
-    },
-    {
-      "userId": 16,
-      "title": "Electronic Metal Chair",
-      "id": 15
-    },
-    {
-      "userId": 16,
-      "title": "Generic Wooden Car",
-      "id": 16
-    },
-    {
-      "userId": 16,
-      "title": "Handcrafted Concrete Car",
-      "id": 17
-    },
-    {
-      "userId": 16,
-      "title": "Modern Plastic Keyboard",
-      "id": 18
-    },
-    {
-      "userId": 16,
-      "title": "Recycled Steel Chair",
-      "id": 19
-    },
-    {
-      "userId": 17,
-      "title": "Rustic Soft Cheese",
-      "id": 20
-    },
-    {
-      "userId": 17,
-      "title": "Licensed Plastic Computer",
-      "id": 21
-    },
-    {
-      "userId": 15,
-      "title": "Unbranded Fresh Shirt",
-      "id": 22
-    },
-    {
-      "userId": 15,
-      "title": "Small Rubber Shirt",
-      "id": 23
+      "userId": 21,
+      "title": "Modern Concrete Chair",
+      "id": 8
     }
   ],
   "photos": []
