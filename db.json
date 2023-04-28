@@ -34,6 +34,26 @@
       "userId": 21,
       "title": "Modern Concrete Chair",
       "id": 8
+    },
+    {
+      "userId": 20,
+      "title": "Generic Concrete Chair",
+      "id": 9
+    },
+    {
+      "userId": 20,
+      "title": "Handcrafted Concrete Mouse",
+      "id": 10
+    },
+    {
+      "userId": 20,
+      "title": "Luxurious Steel Pants",
+      "id": 11
+    },
+    {
+      "userId": 20,
+      "title": "Generic Rubber Shoes",
+      "id": 12
     }
   ],
   "photos": []
